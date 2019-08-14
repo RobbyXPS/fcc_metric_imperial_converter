@@ -39,7 +39,6 @@ module.exports = function (app) {
       let responseObj;
       if (initNumErorr == true || initUnitErorr == true) {
         return res.json(toString)
-        //res.send(toString)
       } 
       else {
         responseObj = {

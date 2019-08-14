@@ -35,8 +35,6 @@ function handlerHelper(input){
       unit = number
       number = 1;
     }
-     // console.log('number2',number)
-    //console.log('unit2',unit)
     }
     if (has_multiple_div == 1) {    
     // check if there is division needed, update number if so
